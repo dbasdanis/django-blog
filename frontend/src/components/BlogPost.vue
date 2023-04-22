@@ -21,7 +21,7 @@ import gql from 'graphql-tag'
 import AuthorLink from '@/components/AuthorLink'
 
 export default {
-  name: 'Post',
+  name: 'BlogPost',
   components: {
     AuthorLink,
   },

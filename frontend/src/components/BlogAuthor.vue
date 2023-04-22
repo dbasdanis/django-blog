@@ -15,7 +15,7 @@ import gql from 'graphql-tag'
 import PostList from '@/components/PostList'
 
 export default {
-  name: 'Author',
+  name: 'BlogAuthor',
   components: {
     PostList,
   },
